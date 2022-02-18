@@ -29,8 +29,21 @@ nav ul li a{
     align-items: center;
     flex-direction: column;
 }
-
+#projects{
+    width: 50vw;
+    display:flex;
+    justify-content: center;
+   
+    
+}
 h1{
     color: brown;
+}
+.project-tile{
+   
+}
+img{
+    width: 400px;
+    margin: 10px;
 }
 

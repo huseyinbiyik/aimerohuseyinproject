@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+#navbar{
+    position: fixed;
+   
+}
+
+nav ul{
+  display: flex;
+  align-content: flex-end;
+  justify-content: flex-end;
+}
+
+nav ul li{
+    padding: 15px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#welcome-section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: brown;
+}
+
